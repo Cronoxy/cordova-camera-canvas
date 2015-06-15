@@ -1,1 +1,1 @@
-# camera-2-canvas
+# cordova-camera-canvas
